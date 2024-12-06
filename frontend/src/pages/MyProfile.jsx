@@ -12,7 +12,7 @@ const MyProfile = () => {
       line2: "Commercial Center, Tunis, 1001"
     }, 
     gender: "Male",
-    dob: "2000-01-18"
+    dob: "09-05-2003"
   })
   const [isEdit, setIsEdit] = useState(false)
 
